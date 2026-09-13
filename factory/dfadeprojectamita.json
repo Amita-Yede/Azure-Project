@@ -9,7 +9,7 @@
 	"location": "westus2",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "454174bf-93a8-4be8-9392-c5366c20d281",
+		"principalId": "33f107de-fe80-45fc-a1be-49a29f7fc89d",
 		"tenantId": "21f0ac5b-b687-4e47-a814-1a3c477c2429"
 	}
 }
